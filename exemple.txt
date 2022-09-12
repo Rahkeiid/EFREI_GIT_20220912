@@ -6,4 +6,4 @@ Ceci est un troisième message. Merci de ne pas le supprimer.
 
 Ceci est un quatrième message. Il n'est pas encore disponible sur la branche distante.
 
-Ceci est un cinquième message. Il n'existera d'abord que dans la branche feature/new-text.
+Ceci est un cinquième message. Cette phrase existe dans les branches mais est différente.
