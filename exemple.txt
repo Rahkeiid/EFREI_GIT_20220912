@@ -10,5 +10,10 @@ Ceci est un cinquième message. Cette phrase existe dans les branches mais est d
 
 Ceci est un sixième message. Il n'existe pour le moment que dans la branche main.
 
+<<<<<<< HEAD
 Ceci est une autre modification mais surement pas la même.
 Je pense qu'il y aura des conflits à résoudre.
+=======
+Ceci est un changement réalisé ce mardi matin.
+En voilà un autre juste par précaution.
+>>>>>>> 3eabe61d84754b67ac386b4c596395a756984ef9
